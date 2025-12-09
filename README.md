@@ -1,8 +1,10 @@
-## **Hi there 👋**
+Hi there 👋
 
-- 🔭 I’m currently working on full-stack web applications and scalable backend systems.  
-- 🌱 I’m currently learning advanced frontend frameworks and cloud deployment strategies.  
-- 💻 I’m passionate about building end-to-end solutions that combine clean design with robust architecture.  
+🔭 I’m currently building scalable software solutions and full-stack applications.
+
+🌱 I’m learning advanced software architecture patterns, cloud deployment, and system optimization.
+
+💻 I’m passionate about creating efficient, maintainable, and high-quality code that drives real-world impact.
  
 
 ## **Tech Stack ⚙️**
