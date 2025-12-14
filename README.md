@@ -5,7 +5,14 @@ Hi there 👋
 🌱 I’m learning advanced software architecture patterns, cloud deployment, and system optimization.
 
 💻 I’m passionate about creating efficient, maintainable, and high-quality code that drives real-world impact.
- 
+
+🌐 **Portfolio:**  
+👉 https://sumanth3036.github.io/my-portfolio/
+
+💼 **Featured Projects**
+- 🔐 CipherTalk – Secure ML-Assisted Chat
+- ⚡ Cloud Code Compiler (AI-powered)
+- 🌍 SafeRoute – Disaster Management System
 
 ## **Tech Stack ⚙️**
 
