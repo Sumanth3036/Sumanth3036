@@ -37,18 +37,11 @@ Hi there 👋
 
 
 
----
-
 ### **GitHub Stats 📊**
-
-![Sumanth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumanth3036&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Sumanth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumanth3036&show_icons=true&count_private=true&hide=prs&theme=radical&cache_seconds=86400)
 
 ### **Most Used Languages 💬**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth3036&layout=compact&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth3036&layout=compact&langs_count=8&theme=radical&cache_seconds=86400)
 
 ### **GitHub Trophies 🏆**
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sumanth3036&theme=radical)
-
----
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sumanth3036&theme=radical&margin-w=15&margin-h=15&no-frame=false)
