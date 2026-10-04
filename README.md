@@ -19,29 +19,30 @@
 
 ### `// SYSTEM STATUS`
 
-<div align="center">
-
-![Backend](https://img.shields.io/badge/%E2%97%8F_BACKEND_SYSTEMS-ONLINE-00e5ff?style=flat-square&labelColor=0d1117)
-![ML](https://img.shields.io/badge/%E2%97%8F_AI%2FML_SYSTEMS-ONLINE-3b82f6?style=flat-square&labelColor=0d1117)
-![LLM](https://img.shields.io/badge/%E2%97%8F_LLM_APPLICATIONS-ONLINE-8b5cf6?style=flat-square&labelColor=0d1117)
-![Prod](https://img.shields.io/badge/%E2%97%8F_PRODUCTION_ENGINEERING-ONLINE-00e5ff?style=flat-square&labelColor=0d1117)
-
-</div>
-
-```text
-sumanth@dev:~$ whoami
-  Sumanth Ponugupati | Backend x AI/ML Engineer | Pune, India
-
-sumanth@dev:~$ cat career.log
-  [now ]  Trainee Engineer      @ omniXM            > omniHealth: internal product-health monitoring
-  [prev]  Research Intern       @ IIT Kharagpur     > LLM / data-agent reliability and evaluation
-  [prev]  Software & ML Intern  @ LogiXair (Honeywell affiliation)
-                                                    > async WebSocket telemetry, 50 Hz, under 5 ms
-                                                    > ML inference for BLDC motor fault detection
-  [edu ]  B.Tech ECE            @ Amrita Vishwa Vidyapeetham, 2022-2026
-
-sumanth@dev:~$ _
-```
+<table>
+<tr>
+<td valign="top" align="center" width="25%">
+<img src="https://img.shields.io/badge/%E2%97%8F-AVAILABLE-22c55e?style=flat-square&labelColor=0d1117" alt="available"/><br/>
+<b>Backend Engineering</b><br/>
+<sub>FastAPI &middot; REST &middot; WebSockets</sub>
+</td>
+<td valign="top" align="center" width="25%">
+<img src="https://img.shields.io/badge/%E2%97%8F-ACTIVE-3b82f6?style=flat-square&labelColor=0d1117" alt="active"/><br/>
+<b>AI / ML Systems</b><br/>
+<sub>ML &middot; RAG &middot; AI Agents</sub>
+</td>
+<td valign="top" align="center" width="25%">
+<img src="https://img.shields.io/badge/%E2%97%8F-BUILDING-8b5cf6?style=flat-square&labelColor=0d1117" alt="building"/><br/>
+<b>LLM Applications</b><br/>
+<sub>Evaluation &middot; Retrieval &middot; Agents</sub>
+</td>
+<td valign="top" align="center" width="25%">
+<img src="https://img.shields.io/badge/%E2%97%8F-OPEN-22c55e?style=flat-square&labelColor=0d1117" alt="open"/><br/>
+<b>Engineering Roles</b><br/>
+<sub>Backend &middot; AI/ML &middot; Software</sub>
+</td>
+</tr>
+</table>
 
 ### `// CURRENTLY BUILDING`
 
@@ -64,6 +65,33 @@ sumanth@dev:~$ _
 <sub>Backend, AI/ML and Software Engineer positions</sub><br/><br/>
 <img src="https://img.shields.io/badge/OPEN_TO-WORK-8b5cf6?style=flat-square&labelColor=0d1117" alt="open"/><br/>
 <sub>Pune | Bengaluru | Hyderabad | Remote</sub>
+</td>
+</tr>
+</table>
+
+### `// CAREER LOG`
+
+<table>
+<tr>
+<td valign="top" width="25%">
+<img src="https://img.shields.io/badge/NOW-omniXM-00e5ff?style=flat-square&labelColor=0d1117" alt="now"/><br/>
+<b>Trainee Engineer</b><br/>
+<sub>omniHealth &middot; AI systems</sub>
+</td>
+<td valign="top" width="25%">
+<img src="https://img.shields.io/badge/PREVIOUS-IIT_KHARAGPUR-3b82f6?style=flat-square&labelColor=0d1117" alt="iit"/><br/>
+<b>Research Intern</b><br/>
+<sub>LLM / data-agent reliability and evaluation</sub>
+</td>
+<td valign="top" width="25%">
+<img src="https://img.shields.io/badge/PREVIOUS-LOGIXAIR-8b5cf6?style=flat-square&labelColor=0d1117" alt="logixair"/><br/>
+<b>Software &amp; ML Intern</b><br/>
+<sub>Honeywell affiliation &middot; WebSocket telemetry at 50 Hz, under 5 ms &middot; ML fault detection</sub>
+</td>
+<td valign="top" width="25%">
+<img src="https://img.shields.io/badge/EDUCATION-AMRITA-22c55e?style=flat-square&labelColor=0d1117" alt="education"/><br/>
+<b>B.Tech ECE</b><br/>
+<sub>Amrita Vishwa Vidyapeetham &middot; 2022 to 2026</sub>
 </td>
 </tr>
 </table>
@@ -156,16 +184,33 @@ sumanth@dev:~$ _
 
 ### `// GITHUB TELEMETRY`
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="middle" width="50%">
+<sub><b>GITHUB STATS</b></sub><br/>
+<img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=Sumanth3036&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=8b5cf6&text_color=c9d1d9&card_width=400" alt="GitHub stats"/>
+</td>
+<td align="center" valign="middle" width="50%">
+<sub><b>TOP LANGUAGES</b></sub><br/>
+<img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth3036&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&card_width=400" alt="Top languages"/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle" colspan="2">
+<sub><b>GITHUB STREAK</b></sub><br/>
+<img width="420" height="165" src="https://streak-stats.demolab.com/?user=Sumanth3036&hide_border=true&background=0d1117&ring=8b5cf6&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak"/>
+</td>
+</tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sumanth3036&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=8b5cf6&text_color=c9d1d9" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth3036&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" alt="top languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=Sumanth3036&hide_border=true&background=0d1117&ring=8b5cf6&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanth3036&bg_color=0d1117&color=00e5ff&line=8b5cf6&point=ffffff&area=true&area_color=3b82f6&hide_border=true" width="100%" alt="contribution graph"/>
-
-</div>
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="middle">
+<sub><b>CONTRIBUTION ACTIVITY</b></sub><br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanth3036&bg_color=0d1117&color=00e5ff&line=8b5cf6&point=ffffff&area=true&area_color=3b82f6&hide_border=true" alt="Contribution activity"/>
+</td>
+</tr>
+</table>
 
 ### `// RESEARCH & PUBLICATIONS`
 
