@@ -17,7 +17,7 @@
 
 </div>
 
-### `// SYSTEM STATUS`
+### ` SYSTEM STATUS`
 
 <table>
 <tr>
@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-### `// CURRENTLY BUILDING`
+### ` CURRENTLY BUILDING`
 
 <table>
 <tr>
@@ -69,7 +69,7 @@
 </tr>
 </table>
 
-### `// CAREER LOG`
+### ` CAREER LOG`
 
 <table>
 <tr>
@@ -96,7 +96,7 @@
 </tr>
 </table>
 
-### `// FEATURED PROJECTS`
+### ` FEATURED PROJECTS`
 
 <table>
 <tr>
@@ -155,7 +155,7 @@
 </tr>
 </table>
 
-### `// TECH STACK`
+### `TECH STACK`
 
 <div align="center">
 
@@ -182,7 +182,7 @@
 
 </div>
 
-### `// GITHUB TELEMETRY`
+### `GITHUB TELEMETRY`
 
 <table align="center" width="100%">
 <tr>
@@ -212,7 +212,7 @@
 </tr>
 </table>
 
-### `// RESEARCH & PUBLICATIONS`
+### `RESEARCH & PUBLICATIONS`
 
 <table>
 <tr>
@@ -244,7 +244,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:3b82f6,100:8b5cf6&height=2" width="100%" alt=""/>
 
-### `// OPEN CHANNEL`
+### `OPEN CHANNEL`
 
 <a href="mailto:sumanthponugupati@gmail.com"><img src="https://img.shields.io/badge/sumanthponugupati%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="email"/></a>
 <a href="https://www.linkedin.com/in/sumanthponugupati/"><img src="https://img.shields.io/badge/in%2Fsumanthponugupati-0d1117?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="linkedin"/></a>
