@@ -2,120 +2,209 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=210&section=header&text=Sumanth%20Ponugupati&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%2FML%20Engineer&descAlignY=60&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0e3a5f,100:5b21b6&height=220&section=header&text=SUMANTH%20PONUGUPATI&fontSize=46&fontColor=00e5ff&fontAlignY=40&desc=BACKEND%20%C3%97%20AI%2FML%20ENGINEER&descAlignY=62&descSize=17&descColor=c4b5fd" width="100%" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=5BC0BE&center=true&vCenter=true&width=760&lines=Real-time+systems+that+stay+up;LLM+agents+that+fail+less;I+find+why+it+breaks%2C+then+fix+the+pattern)](https://github.com/Sumanth3036)
+<a href="https://github.com/Sumanth3036"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+reliable+backend+systems+and+LLM-powered+apps;FastAPI+%7C+async+WebSockets+%7C+RAG+%7C+AI+agents;Real-time+telemetry+at+50+Hz%2C+under+5+ms+latency" alt="typing"/></a>
 
-![Location](https://img.shields.io/badge/Pune-India-1c2541?style=for-the-badge&logo=googlemaps&logoColor=5bc0be)
-![Open to](https://img.shields.io/badge/Open_to-Backend_%7C_AI%2FML_%7C_SWE-5bc0be?style=for-the-badge&labelColor=1c2541)
-![IEEE](https://img.shields.io/badge/IEEE-ICSSES_2025-3a506b?style=for-the-badge&logo=ieee&logoColor=white)
+<br/>
 
-[Selected work](#selected-work) | [Research](#inside-the-research) | [System design](#system-design-think9) | [Experience](#experience) | [Stack](#stack) | [Contact](#contact)
+<a href="https://github.com/Sumanth3036"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/sumanthponugupati/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="LinkedIn"/></a>
+<a href="https://sumanth3036.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=githubpages&logoColor=8b5cf6" alt="Portfolio"/></a>
+<a href="mailto:sumanthponugupati@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="Email"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:3b82f6,100:8b5cf6&height=2" width="100%" alt=""/>
 
 </div>
 
----
+### `// SYSTEM STATUS`
 
-## Snapshot
+<div align="center">
+
+![Backend](https://img.shields.io/badge/%E2%97%8F_BACKEND_SYSTEMS-ONLINE-00e5ff?style=flat-square&labelColor=0d1117)
+![ML](https://img.shields.io/badge/%E2%97%8F_AI%2FML_SYSTEMS-ONLINE-3b82f6?style=flat-square&labelColor=0d1117)
+![LLM](https://img.shields.io/badge/%E2%97%8F_LLM_APPLICATIONS-ONLINE-8b5cf6?style=flat-square&labelColor=0d1117)
+![Prod](https://img.shields.io/badge/%E2%97%8F_PRODUCTION_ENGINEERING-ONLINE-00e5ff?style=flat-square&labelColor=0d1117)
+
+</div>
 
 ```text
-name          Sumanth Ponugupati
-role          Backend & AI/ML Engineer  |  B.Tech ECE, Amrita Vishwa Vidyapeetham (2026)
-location      Pune, India
-now           Trainee Engineer @ omniXM: built an internal product that monitors the health of all company products
-before        Research Intern @ IIT Kharagpur (LLM data agents)  |  ML Intern @ LogiXair (real-time telemetry)
-papers        3 published (IEEE ICSSES 2025 as sole author)
-looking_for   Backend Engineer | AI/ML Engineer | Software Engineer  (Pune, Bengaluru, Hyderabad, remote)
+sumanth@dev:~$ whoami
+  Sumanth Ponugupati | Backend x AI/ML Engineer | Pune, India
+
+sumanth@dev:~$ cat career.log
+  [now ]  Trainee Engineer      @ omniXM            > omniHealth: internal product-health monitoring
+  [prev]  Research Intern       @ IIT Kharagpur     > LLM / data-agent reliability and evaluation
+  [prev]  Software & ML Intern  @ LogiXair (Honeywell affiliation)
+                                                    > async WebSocket telemetry, 50 Hz, under 5 ms
+                                                    > ML inference for BLDC motor fault detection
+  [edu ]  B.Tech ECE            @ Amrita Vishwa Vidyapeetham, 2022-2026
+
+sumanth@dev:~$ _
 ```
 
-## Selected work
+### `// CURRENTLY BUILDING`
 
-| Project | What it proves | Stack |
-|---|---|---|
-| [**Data Agent Reliability Evaluation**](https://github.com/Sumanth3036/Data-Agent-Reliability-Evaluation) | Entity-resolution F1 **0.8992 to 0.9333**; found a sampling bug that tested only 3 of 900 true matches | Python, GPT-OSS-120B |
-| [**Think9**](https://github.com/Sumanth3036/Think9-Multi-Agent-Knowledge-Assistant) | Multi-agent RAG with a confidence gate, human review and decision memory, with a pytest suite | FastAPI, Streamlit, ChromaDB, Llama 3.1 8B |
-| [**DefectAI**](https://github.com/Sumanth3036/defectai) | **0.842 ROC-AUC** on unseen repositories; leakage-safe split; SHAP explanations | PyTorch, CodeBERT, FastAPI, React |
-| [**Distributed Traffic Surveillance**](https://github.com/Sumanth3036/Distributed-Traffic-Surveillance-System) | Fault-tolerant master-worker pipeline: **+40% throughput, zero task loss** under worker failure | FastAPI, RabbitMQ, Redis, YOLOv11 |
-| [**CipherTalk**](https://github.com/Sumanth3036/secure-chat-app) | Encrypted chat (AES-256, JWT, OTP) with a **96%+** accurate phishing classifier | FastAPI, CatBoost, MongoDB |
-| [**SafeRoute**](https://github.com/Sumanth3036/Saferoute-Multi-Modal-Optimization-for-Crisis-Management-and-Evacuation) | Evacuation routing with **92.6% / 91.9%** earthquake / flood accuracy; [IEEE ICSSES 2025](https://ieeexplore.ieee.org/document/11009902) | Python, OSMnx, A*, Dijkstra |
+<table>
+<tr>
+<td valign="top" width="33%">
+<b>omniHealth</b><br/>
+<sub>Internal platform that monitors the health of company products</sub><br/><br/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00e5ff?style=flat-square&labelColor=0d1117" alt="active"/><br/>
+<sub>@ omniXM</sub>
+</td>
+<td valign="top" width="33%">
+<b>AI systems at omniXM</b><br/>
+<sub>Redesigning AI systems for reliability and maintainability</sub><br/><br/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-3b82f6?style=flat-square&labelColor=0d1117" alt="active"/><br/>
+<sub>Python | FastAPI | REST</sub>
+</td>
+<td valign="top" width="33%">
+<b>Open to roles</b><br/>
+<sub>Backend, AI/ML and Software Engineer positions</sub><br/><br/>
+<img src="https://img.shields.io/badge/OPEN_TO-WORK-8b5cf6?style=flat-square&labelColor=0d1117" alt="open"/><br/>
+<sub>Pune | Bengaluru | Hyderabad | Remote</sub>
+</td>
+</tr>
+</table>
 
-## Inside the research
+### `// FEATURED PROJECTS`
 
-Budgeted pilot on Abt-Buy entity resolution (175 pairs), with failures analysed instead of just tuned away. The baseline made 13 false positives; grouping them showed 5 distinct failure patterns, and targeted prompt fixes corrected 9 of them.
+<table>
+<tr>
+<td valign="top" width="50%">
+<b>&#9672; Data Agent Reliability Evaluation</b><br/>
+<sub>Evaluating LLM data agents on entity resolution and schema matching</sub><br/>
+<img src="https://img.shields.io/badge/F1-0.8992_%E2%86%92_0.9333-00e5ff?style=flat-square&labelColor=0d1117" alt="metric"/><br/>
+<img height="26" src="https://skillicons.dev/icons?i=py&theme=dark" alt="py"/><br/>
+<sub>LLM evaluation | GPT-OSS-120B | failure analysis</sub><br/>
+<a href="https://github.com/Sumanth3036/Data-Agent-Reliability-Evaluation">&rarr; repository</a>
+</td>
+<td valign="top" width="50%">
+<b>&#9672; Think9</b><br/>
+<sub>Multi-agent knowledge assistant with a confidence gate and human review</sub><br/>
+<img src="https://img.shields.io/badge/LOCAL_LLM-Llama_3.1_8B-8b5cf6?style=flat-square&labelColor=0d1117" alt="metric"/><br/>
+<img height="26" src="https://skillicons.dev/icons?i=py,fastapi,docker&theme=dark" alt="stack"/><br/>
+<sub>RAG | ChromaDB | Ollama | Streamlit</sub><br/>
+<a href="https://github.com/Sumanth3036/Think9-Multi-Agent-Knowledge-Assistant">&rarr; repository</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<b>&#9672; DefectAI</b><br/>
+<sub>Explainable defect prediction from CodeBERT embeddings and code metrics</sub><br/>
+<img src="https://img.shields.io/badge/ROC--AUC-0.842-00e5ff?style=flat-square&labelColor=0d1117" alt="metric"/><br/>
+<img height="26" src="https://skillicons.dev/icons?i=py,pytorch,fastapi,react&theme=dark" alt="stack"/><br/>
+<sub>CodeBERT | SHAP | leakage-safe split</sub><br/>
+<a href="https://github.com/Sumanth3036/defectai">&rarr; repository</a>
+</td>
+<td valign="top" width="50%">
+<b>&#9672; Distributed Traffic Surveillance</b><br/>
+<sub>Fault-tolerant master-worker pipeline for vehicle detection and plate OCR</sub><br/>
+<img src="https://img.shields.io/badge/THROUGHPUT-%2B40%25_%7C_ZERO_TASK_LOSS-3b82f6?style=flat-square&labelColor=0d1117" alt="metric"/><br/>
+<img height="26" src="https://skillicons.dev/icons?i=py,fastapi,rabbitmq,redis,docker&theme=dark" alt="stack"/><br/>
+<sub>YOLOv11 | PaddleOCR | JWT auth</sub><br/>
+<a href="https://github.com/Sumanth3036/Distributed-Traffic-Surveillance-System">&rarr; repository</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<b>&#9672; CipherTalk</b><br/>
+<sub>Encrypted chat with AES-256, JWT and OTP auth, plus phishing detection</sub><br/>
+<img src="https://img.shields.io/badge/PHISHING_DETECTION-96%25%2B_ACCURACY-8b5cf6?style=flat-square&labelColor=0d1117" alt="metric"/><br/>
+<img height="26" src="https://skillicons.dev/icons?i=py,fastapi,mongodb,docker&theme=dark" alt="stack"/><br/>
+<sub>CatBoost | WebSockets | bcrypt | rate limiting</sub><br/>
+<a href="https://github.com/Sumanth3036/secure-chat-app">&rarr; repository</a>
+</td>
+<td valign="top" width="50%">
+<b>&#9672; SafeRoute</b><br/>
+<sub>Flood and earthquake risk prediction with multi-modal evacuation routing</sub><br/>
+<img src="https://img.shields.io/badge/ACCURACY-92.6%25_EQ_%7C_91.9%25_FLOOD-00e5ff?style=flat-square&labelColor=0d1117" alt="metric"/><br/>
+<img height="26" src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" alt="stack"/><br/>
+<sub>OSMnx | A* | Dijkstra | Floyd-Warshall | IEEE ICSSES 2025</sub><br/>
+<a href="https://github.com/Sumanth3036/Saferoute-Multi-Modal-Optimization-for-Crisis-Management-and-Evacuation">&rarr; repository</a>
+</td>
+</tr>
+</table>
 
-| | Precision | Recall | F1 |
-|---|---|---|---|
-| Baseline | 0.8169 | 1.0000 | 0.8992 |
-| After fixes | 0.9032 | 0.9655 | **0.9333** |
-
-Precision rose and recall dropped slightly; the full trade-off, new errors and limitations are in the [report](https://github.com/Sumanth3036/Data-Agent-Reliability-Evaluation/blob/main/REPORT.md).
-
-```mermaid
-pie showData title 13 baseline false positives by failure pattern
-    "Brand or category treated as identity" : 6
-    "Specific SKU matched to generic listing" : 3
-    "Matched on brand or product type only" : 2
-    "Form-factor or SKU variant" : 1
-    "Same model, different colour" : 1
-```
-
-**Lesson:** my first schema-matching run looked fine but sampled only 3 of 900 true matches. Check what your evaluation is actually measuring before trusting the score.
-
-## System design: Think9
-
-```mermaid
-flowchart TD
-    Q[Question] --> O[Orchestrator: keyword routing]
-    O --> L[Legal agent]
-    O --> B[Brand agent]
-    O --> P[Operations agent]
-    L --> R[Retrieval: ChromaDB + Sentence Transformers]
-    B --> R
-    P --> R
-    R --> S[Synthesis: Llama 3.1 8B via Ollama]
-    S --> G{Confidence at least 80?}
-    G -- yes --> A[Approved]
-    G -- no --> H[Human review]
-    H --> A
-    A --> M[(Decision memory)]
-```
-
-The model only sees retrieved evidence, must cite sources, and a human decides whenever confidence is low.
-
-## Experience
-
-| When | Where | What I did |
-|---|---|---|
-| Aug 2026 to now | **omniXM**, Trainee Engineer | Built an internal product end to end that monitors the health of all company products; redesigned AI systems |
-| Aug to Sep 2026 | **IIT Kharagpur**, Research Intern | LLM data-agent reliability; reviewed 100+ papers (SIGMOD, VLDB, SIGIR, ICDE, CIKM) |
-| May to Jul 2025 | **LogiXair**, ML Intern | Async telemetry APIs at **50 Hz, under 5 ms latency**; ML fault detection cut position error by **52%** |
-
-## Stack
+### `// TECH STACK`
 
 <div align="center">
 
-![Stack](https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,js,ts,react,postgres,mysql,mongodb,redis,docker,aws,githubactions,linux,git,c&perline=9)
+<sub><b>BACKEND</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,nodejs,rabbitmq&theme=dark" alt="backend"/>
+
+<sub><b>AI / ML</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ml"/><br/>
+<img src="https://img.shields.io/badge/CatBoost-0d1117?style=flat-square&labelColor=0d1117&color=00e5ff" alt="catboost"/>
+<img src="https://img.shields.io/badge/YOLO-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6" alt="yolo"/>
+<img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&labelColor=0d1117&color=8b5cf6" alt="rag"/>
+<img src="https://img.shields.io/badge/LLMs-0d1117?style=flat-square&labelColor=0d1117&color=00e5ff" alt="llms"/>
+<img src="https://img.shields.io/badge/AI_Agents-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6" alt="agents"/>
+
+<sub><b>DATABASES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="db"/><br/>
+<img src="https://img.shields.io/badge/MSSQL-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=0d1117&color=8b5cf6" alt="mssql"/>
+
+<sub><b>CLOUD / DEVOPS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,aws,azure&theme=dark" alt="devops"/>
+
+<sub><b>FRONTEND</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark" alt="frontend"/>
 
 </div>
 
-**Backend** FastAPI, REST, WebSocket, JWT, async Python, microservices, RabbitMQ
-**AI/ML** PyTorch, TensorFlow, scikit-learn, CatBoost, YOLOv11, RAG, LLM evaluation
-**Infra** Docker, GitHub Actions (CI/CD), AWS, Linux
-
-## Publications
-
-- **SafeRoute: Multi-Modal Optimization for Crisis Management and Evacuation**, IEEE ICSSES 2025 (sole author) | [IEEE Xplore](https://ieeexplore.ieee.org/document/11009902)
-- **Embedded VPN Router Using Raspberry Pi**, ETCOM 2025 | [Semantic Scholar](https://www.semanticscholar.org/paper/Embedded-VPN-Router-Using-Raspberry-Pi-Renesh-Yallamelli/d8e2aa16d37d8f88aef62ad0baab0969131ccdcd)
-- **Revolutionizing University Placements: Advanced Technologies for Streamlined Ecosystems**, ICRDICCT 2025
-
-## Contact
+### `// GITHUB TELEMETRY`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-5bc0be?style=for-the-badge&logo=githubpages&logoColor=black)](https://sumanth3036.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanthponugupati/)
-[![Email](https://img.shields.io/badge/Email-1c2541?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumanthponugupati@gmail.com)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sumanth3036&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=8b5cf6&text_color=c9d1d9" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth3036&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" alt="top languages"/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3a506b,100:0b132b&height=100&section=footer)
+<img src="https://streak-stats.demolab.com/?user=Sumanth3036&hide_border=true&background=0d1117&ring=8b5cf6&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanth3036&bg_color=0d1117&color=00e5ff&line=8b5cf6&point=ffffff&area=true&area_color=3b82f6&hide_border=true" width="100%" alt="contribution graph"/>
+
+</div>
+
+### `// RESEARCH & PUBLICATIONS`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://img.shields.io/badge/IEEE-ICSSES_2025-00e5ff?style=flat-square&labelColor=0d1117" alt="ICSSES"/><br/>
+<b>SafeRoute: Multi-Modal Optimization for Crisis Management and Evacuation</b><br/>
+<a href="https://ieeexplore.ieee.org/document/11009902">&rarr; IEEE Xplore</a>
+</td>
+<td valign="top" width="50%">
+<img src="https://img.shields.io/badge/ETCOM-2025-3b82f6?style=flat-square&labelColor=0d1117" alt="ETCOM"/><br/>
+<b>Embedded VPN Router Using Raspberry Pi</b><br/>
+<a href="https://www.semanticscholar.org/paper/Embedded-VPN-Router-Using-Raspberry-Pi-Renesh-Yallamelli/d8e2aa16d37d8f88aef62ad0baab0969131ccdcd">&rarr; Semantic Scholar</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<img src="https://img.shields.io/badge/ICRDICCT-2025-8b5cf6?style=flat-square&labelColor=0d1117" alt="ICRDICCT"/><br/>
+<b>Revolutionizing University Placements: Advanced Technologies for Streamlined Ecosystems</b>
+</td>
+<td valign="top" width="50%">
+<img src="https://img.shields.io/badge/RESEARCH-IIT_KHARAGPUR-00e5ff?style=flat-square&labelColor=0d1117" alt="IIT KGP"/><br/>
+<b>LLM data-agent reliability</b><br/>
+<sub>13 false positives grouped into 5 failure patterns; F1 0.8992 &rarr; 0.9333 on a 175-pair pilot</sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:3b82f6,100:8b5cf6&height=2" width="100%" alt=""/>
+
+### `// OPEN CHANNEL`
+
+<a href="mailto:sumanthponugupati@gmail.com"><img src="https://img.shields.io/badge/sumanthponugupati%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="email"/></a>
+<a href="https://www.linkedin.com/in/sumanthponugupati/"><img src="https://img.shields.io/badge/in%2Fsumanthponugupati-0d1117?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="linkedin"/></a>
+<a href="https://sumanth3036.github.io/my-portfolio/"><img src="https://img.shields.io/badge/my--portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=8b5cf6" alt="portfolio"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:0e3a5f,100:0d1117&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
