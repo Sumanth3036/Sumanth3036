@@ -2,8 +2,8 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # refresh every 6 hours
-  workflow_dispatch:         # lets you run it manually from the Actions tab
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -23,30 +23,33 @@ jobs:
           output_action: commit
           committer_branch: main
           config_timezone: Asia/Kolkata
+          config_display: columns
 
-          # Header / profile card (left column + top of middle column)
           base: header, activity, community, repositories, metadata
           base_indepth: yes
 
-          # Coding habits and recent activity (commit-per-hour, per-day, language activity)
+          # Habits: commit activity per hour / per day / language activity
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
+          plugin_habits_from: 100
+          plugin_habits_days: 30
           plugin_habits_charts: yes
-          plugin_habits_languages_limit: 8
+          plugin_habits_charts_type: classic
 
-          # Most used languages bar
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
 
-          # 3D contributions calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # PageSpeed Insights scores for your portfolio
+          # Mastered technologies and topics (icon grid, built from your repo topics)
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 30
+
+          # PageSpeed needs a free Google API key stored as secret PAGESPEED_TOKEN
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://sumanth3036.github.io/my-portfolio/
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: no
