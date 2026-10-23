@@ -23,7 +23,6 @@ jobs:
           output_action: commit
           committer_branch: main
           config_timezone: Asia/Kolkata
-          config_display: columns
 
           base: header, activity, community, repositories, metadata
           base_indepth: yes
